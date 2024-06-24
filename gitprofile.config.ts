@@ -23,17 +23,7 @@ const CONFIG = {
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
-      manual: {
-        // Properties for manually specifying projects
-        projects: [
-          'ricky9667/HushKeyboard',
-          'ricky9667/dnd-website',
-          'Xanonymous-Github/BabaIsYou',
-          'ricky9667/simple-chat',
-          'CCC-Shop/ccc-shop-frontend',
-          'ricky9667/commands',
-        ], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
-      },
+      manual: {},
     },
     external: {
       header: 'My Projects',
@@ -70,7 +60,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/13882Yrxy1mbXMG90y64fqITFh7gxZaIf/', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.enquestor.com/d/s/10xLLGv3eCkgegwLb70rdHGhP5mSHlAf/25kyvjjPUC-3ZJDVJtzY6erARjvP4x0n-MbZgv9pe1As', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Android',
@@ -82,14 +72,24 @@ const CONFIG = {
     'Git',
     'Vim',
     'Design Patterns',
+    'OOP',
+    'Python',
+    'Appium',
     'Scrum',
   ],
   experiences: [
     {
+      company: 'Appier',
+      position: 'Quality Assurance Intern',
+      from: 'Jul 2024',
+      to: 'Present',
+      companyLink: 'https://www.linkedin.com/company/appier/',
+    },
+    {
       company: 'LINE Taiwan Limited',
       position: 'Android Developer Intern',
       from: 'Jul 2022',
-      to: 'Present',
+      to: 'Jun 2024',
       companyLink: 'https://www.linkedin.com/company/linetaiwan/',
     },
   ],
@@ -97,13 +97,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'National Taipei University of Technology',
-      degree: 'Masters Degree',
+      degree: 'CSIE Master\'s Degree',
       from: '2023',
       to: 'Present',
     },
     {
       institution: 'National Taipei University of Technology',
-      degree: 'Bachelor Degree',
+      degree: 'EECS Bachelor\'s Degree',
       from: '2019',
       to: '2023',
     },
