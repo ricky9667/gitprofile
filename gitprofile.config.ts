@@ -89,7 +89,7 @@ const CONFIG = {
       company: 'LINE Taiwan Limited',
       position: 'Android Developer Intern',
       from: 'Jul 2022',
-      to: 'Present',
+      to: 'Jun 2024',
       companyLink: 'https://www.linkedin.com/company/linetaiwan/',
     },
   ],
@@ -97,13 +97,13 @@ const CONFIG = {
   educations: [
     {
       institution: 'National Taipei University of Technology',
-      degree: 'Masters Degree',
+      degree: 'CSIE Master\'s Degree',
       from: '2023',
       to: 'Present',
     },
     {
       institution: 'National Taipei University of Technology',
-      degree: 'Bachelor Degree',
+      degree: 'EECS Bachelor\'s Degree',
       from: '2019',
       to: '2023',
     },
