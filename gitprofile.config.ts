@@ -59,8 +59,7 @@ const CONFIG = {
     email: 'ricky9667@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://drive.enquestor.com/d/s/10xLLGv3eCkgegwLb70rdHGhP5mSHlAf/25kyvjjPUC-3ZJDVJtzY6erARjvP4x0n-MbZgv9pe1As', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://ricky-hu.com/resume', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Android',
